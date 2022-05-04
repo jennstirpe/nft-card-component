@@ -71,6 +71,7 @@ body {
 .selection {
     color: var(--white);
     font-weight: 600;
+    font-size: 1.62rem;
 
     transition: color 500ms ease;
 }
